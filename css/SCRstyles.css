@@ -1,0 +1,37 @@
+P{
+    font-size: 20px;
+}
+#top{
+    text-decoration: underline;
+}
+
+.list{
+    font-style:oblique;
+    color: gray;
+    font-variant: small-caps;
+    font-weight: 600;
+}
+
+body{
+    background-color:aliceblue;
+    font-family:fantasy;
+    border: 5px solid black;
+    margin: 15px;
+    padding: 20px; 
+    text-align: center;
+    color: black;
+}
+ol{
+    list-style-position: inside;
+}
+ul{
+    list-style-position: inside;
+}
+.title{
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.youtube{
+    font-weight: 200;
+    font-variant: small-caps;
+}
